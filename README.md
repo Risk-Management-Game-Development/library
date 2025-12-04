@@ -1,8 +1,9 @@
-# library
+=library
 library of models for the factory environment.
 
 Instructiuons:
  In each folder, you should fine an fbx file (this is the 3d model), and various images.
+ Some wiull have more than one bc, more than one normal, etc - you can try creating more than one material but im not sure if that works or not.
  You need to add the 3d model into the unity project.
  To add colour, right click anywhere in the content library of your project - click new - material.
  Click the material, for the first dropdown on the right hand sid emenu, set it to LIT.
